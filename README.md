@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="600" height="300"/>
 </div>
 
-- 🌱 I'm an enthusiastic and committed student studying software engineering who is continually looking for possibilities to learn and advance in the field of technology from Nairobi, Kenya
+- 🌱 I'm an enthusiastic and committed student studying software engineering who is continually looking for possibilities to learn and advance in the field of technology.
 - 🔭 I’m currently working on **Backend**
 
 - 🌱 I’m currently learning **Python**
