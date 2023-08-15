@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Macharia Phinehas</h1>
 
-
-<p align="left"> <a href="https://twitter.com/_m_phinehas" target="blank"><img src="https://img.shields.io/twitter/follow/_m_phinehas?logo=twitter&style=for-the-badge" alt="_m_phinehas" /></a> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/okZ8eqHMUPDdLEAIkf/giphy.gif" width="600" height="300"/>
+</div>
 
 - 🌱 I'm an enthusiastic and committed student studying software engineering who is continually looking for possibilities to learn and advance in the field of technology from Nairobi, Kenya
 - 🔭 I’m currently working on **Backend**
