@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Macharia Phinehas</h1>
-<h3 align="center">🌱 I'm an enthusiastic and committed student studying software engineering who is continually looking for possibilities to learn and advance in the field of technology from Nairobi, Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=machariap&label=Profile%20views&color=0e75b6&style=flat" alt="machariap" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_m_phinehas" target="blank"><img src="https://img.shields.io/twitter/follow/_m_phinehas?logo=twitter&style=for-the-badge" alt="_m_phinehas" /></a> </p>
 
+- 🌱 I'm an enthusiastic and committed student studying software engineering who is continually looking for possibilities to learn and advance in the field of technology from Nairobi, Kenya
 - 🔭 I’m currently working on **Backend**
 
 - 🌱 I’m currently learning **Python**
@@ -14,6 +13,8 @@
 - 💬 Ask me about **💻 Tech Stack : Version Control: Git, GitHub, html, css, javascript**
 
 - 📫 How to reach me **walburphinehas78@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=machariap&label=Profile%20views&color=0e75b6&style=flat" alt="machariap" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
