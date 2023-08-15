@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Macharia Phinehas</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/nXqS2AUoXnK3GyJ29a/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="600" height="300"/>
 </div>
 
 - 🌱 I'm an enthusiastic and committed student studying software engineering who is continually looking for possibilities to learn and advance in the field of technology from Nairobi, Kenya
