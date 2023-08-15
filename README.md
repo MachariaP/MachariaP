@@ -1,4 +1,3 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 <h1 align="center">Hi 👋, I'm Macharia Phinehas</h1>
 <h3 align="center">🌱 I'm an enthusiastic and committed student studying software engineering who is continually looking for possibilities to learn and advance in the field of technology from Nairobi, Kenya</h3>
 
@@ -18,9 +17,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_m_phinehas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_m_phinehas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/macharia-phinehas-5a11ba154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="macharia-phinehas-5a11ba154/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/phinehas78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/phinehas78/" height="30" width="40" /></a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/phinehassoftwareengineer/" target=”blank”>
+    <img align=”center” src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/_M_Phinehas" target=”blank”>
+    <img align=”center” src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
