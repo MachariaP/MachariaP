@@ -1,4 +1,4 @@
-# Hi 👋, I'm Macharia Phinehas
+# Hi 👋, I'm Macharia Phinehas.
 
 <div align="center">
   <img src="https://media.giphy.com/media/PiWfijeEeJEI0uB7j6/giphy.gif" width="600" height="300"/>
