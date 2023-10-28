@@ -73,12 +73,26 @@
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machariap&show_icons=true&locale=en&layout=compact" alt="machariap" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machariap&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="machariap" />
+
+
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=machariap&show_icons=true&locale=en" alt="machariap" />
-</p>
+
+
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=machariap&" alt="
+ <img src="https://github-profile-trophy.vercel.app/?username=MachariaP&theme=solarized&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="MachariaP's Trophies" />
+
+</p>
+
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=radical" alt="MachariaP" />
+
+</p>
+
+
+
+
+
