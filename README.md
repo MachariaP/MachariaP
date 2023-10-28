@@ -18,11 +18,7 @@
 
 - 📫 How to reach me: [walburphinehas78@gmail.com](mailto:walburphinehas78@gmail.com).
 
-## Profile Views
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=machariap&label=Profile%20views&color=0e75b6&style=flat" alt="machariap" />
-</p>
 
 ## Connect with Me
 
@@ -70,29 +66,27 @@
   </a>
 </p>
 
-## GitHub Stats
 
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=machariap&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="machariap" />
+## My Github Stats:
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/MachariaP"><img alt="Macharia Phinehas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=machariap&show_icons=true&locale=en&layout=compact&theme=cobalt" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/MachariaP"><img src="https://github-profile-trophy.vercel.app/?username=MachariaP&theme=solarized&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="MachariaP's Trophies" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/MachariaP"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=radical" alt="MachariaP" /></a>
+    </td>
+  </tr>
+</table>
 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MachariaP&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
+
+<p align="right">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="MachariaP" />
 </p>
-
-
-
-
-<p align="left">
- <img src="https://github-profile-trophy.vercel.app/?username=MachariaP&theme=solarized&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="MachariaP's Trophies" />
-
-</p>
-
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=radical" alt="MachariaP" />
-
-</p>
-
-
-
-
 
