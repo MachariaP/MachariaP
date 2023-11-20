@@ -10,9 +10,9 @@
 
 - 🌱 I'm an enthusiastic and committed student studying software engineering, constantly seeking opportunities to learn and advance in the field of technology.
 - 🔭 Currently working on **Backend Development**.
-- 🌱 Learning **C - Programming**.
+- 🌱 Learning **PYTHON**.
 - 👯 Open to collaborating on **Frontend Projects**.
-- 💬 Ask me about my tech stack: Version Control (Git, GitHub), HTML, CSS, JavaScript.
+- 💬 Ask me about my tech stack: Version Control (Git, GitHub), HTML, CSS, JavaScript, C.
 
 ## Contact
 
