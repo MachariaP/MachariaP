@@ -1,87 +1,7 @@
 # Hi 👋, I'm Macharia Phinehas.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/PiWfijeEeJEI0uB7j6/giphy.gif" width="600" height="300"/>
-</div>
-
-
-
-## About Me
-
-- 🌱 I'm an enthusiastic and committed student studying software engineering, constantly seeking opportunities to learn and advance in the field of technology.
-- 🔭 Currently working on **Backend Development**.
-- 🌱 Learning **PYTHON**.
-- 👯 Open to collaborating on **Frontend Projects**.
-- 💬 Ask me about my tech stack: Version Control (Git, GitHub), HTML, CSS, JavaScript, C.
-
-## Contact
-
-- 📫 How to reach me: [walburphinehas78@gmail.com](mailto:walburphinehas78@gmail.com).
-
-
-
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/phinehassoftwareengineer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/_M_Phinehas" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</p>
-
-## Languages and Tools
-
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-</p>
-
-
-## My Github Stats:
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/MachariaP"><img alt="Macharia Phinehas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=machariap&show_icons=true&locale=en&layout=compact&theme=cobalt" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/MachariaP"><img src="https://github-profile-trophy.vercel.app/?username=MachariaP&theme=solarized&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="MachariaP's Trophies" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/MachariaP"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=radical" alt="MachariaP" /></a>
-    </td>
-  </tr>
-</table>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MachariaP&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
@@ -90,3 +10,40 @@
   <img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="MachariaP" />
 </p>
 
+## About Me
+
+- 🌱 Passionate software engineer committed to continuous learning and technological advancement.
+- 🔭 Currently working on **Backend Development** and learning **PYTHON**.
+- 👯 Open to collaborating on **Frontend Projects**.
+- 💬 Tech stack: Version Control (Git, GitHub), HTML, CSS, JavaScript, C.
+
+## Contact
+
+- 📫 How to reach me: [walburphinehas78@gmail.com](mailto:walburphinehas78@gmail.com).
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Phinehas78/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/macharia-phinehas-5a11ba154/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@_M_Phinehas) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MachariaP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MachariaP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MachariaP&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
+
+
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MachariaP&limit=5&theme=chalk&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=MachariaP&icon=7&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
