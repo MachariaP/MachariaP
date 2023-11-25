@@ -1,4 +1,4 @@
-# Hi 👋, I'm Macharia Phinehas.
+# Hi 👋, I'm Macharia Phinehas
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
