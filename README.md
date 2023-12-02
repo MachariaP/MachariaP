@@ -1,4 +1,5 @@
 # Hi 👋, I'm Macharia Phinehas
+<img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Macharia+Phinehas+%F0%9F%91%8B;👨‍💻+++Full-Stack+Developer;Software+Engineer;Student+@+ALX+Africa;Problem+Solver;Codebase:+Stable+" alt="Headline" /> </div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -10,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="MachariaP" />
 </p>
 
-## About Me
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - 🌱 Passionate software engineer committed to continuous learning and technological advancement.
 - 🔭 Currently working on **Backend Development** and learning **PYTHON**.
@@ -30,6 +31,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MachariaP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=dark&hide_border=false)<br/>
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MachariaP&theme=high-contras
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MachariaP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MachariaP&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
@@ -42,5 +45,6 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 
