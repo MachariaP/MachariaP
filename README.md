@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=MachariaP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=dark&hide_border=false)<br/>
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MachariaP&theme=high-contras
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MachariaP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MachariaP&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
@@ -42,8 +42,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MachariaP&limit=5&theme=chalk&combine_all_yearly_contributions=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MachariaP&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 
