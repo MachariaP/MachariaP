@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="MachariaP" />
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me.**
 
 - 🌱 Passionate software engineer committed to continuous learning and technological advancement.
 - 🔭 Currently working on **Backend Development** and learning **PYTHON**.
