@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me.**
+##  **About me.**
 
 - 🌱 I'm a passionate software engineer with a focus on backend development using Python.
 - 🔭 Currently honing my skills at ALX Africa.
