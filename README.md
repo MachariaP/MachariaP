@@ -1,50 +1,60 @@
-# Hi 👋, I'm Macharia Phinehas.
-<img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Macharia+%F0%9F%91%8B;👨‍💻+++Full-Stack+Developer;Software+Engineer;Student+@+ALX+Africa;Problem+Solver;Codebase+:++Stable+" alt="Headline" /> </div>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MachariaP&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
-
-<p align="right">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  <img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="MachariaP" />
-</p>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Phinehas Macharia</h1>
+<h3 align="center">Full-Stack Developer from Kenya</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me.**
 
-- 🌱 Passionate software engineer committed to continuous learning and technological advancement.
-- 🔭 Currently working on **Backend Development** and learning **PYTHON**.
-- 👯 Open to collaborating on **Frontend Projects**.
-- 💬 Tech stack: Version Control (Git, GitHub), HTML, CSS, JavaScript, C, Python.
+- 🌱 I'm a passionate software engineer with a focus on backend development using Python.
+- 🔭 Currently honing my skills at ALX Africa.
+- 👯 I'm eager to tackle complex challenges and build robust applications. I'm always looking for opportunities to collaborate on innovative projects and expand my knowledge.
+<br/>
 
-## Contact
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 
-- 📫 How to reach me: [walburphinehas78@gmail.com](mailto:walburphinehas78@gmail.com).
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Phinehas78/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/macharia-phinehas-5a11ba154/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@_M_Phinehas) 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MachariaP.MachariaP" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Python3](https://img.shields.io/badge/python3-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MachariaP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=dark&hide_border=false)<br/>
+ 
+
+ 
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MachariaP/MachariaP/output/github-contribution-grid-snake.svg" />
   
+  <br/><br/><br/>
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MachariaP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MachariaP&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
+<hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=MachariaP/&count_&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MachariaP&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MachariaP&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MachariaP&limit=5&theme=chalk&combine_all_yearly_contributions=true)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MachariaP&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/><br/>
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<hr/>
+
+<br/>
+
