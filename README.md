@@ -1,26 +1,23 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Phinehas Macharia</h1>
 <h3 align="center">Full-Stack Developer from Kenya</h3>
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px></picture> **About me.**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me.**
 
 - 🌱 I'm a passionate software engineer with a focus on backend development using Python.
 - 🔭 Currently honing my skills at ALX Africa.
-- 👯 I'm eager to tackle complex challenges and build robust applications. I'm always looking for opportunities to collaborate on innovative projects and expand my knowledge.
+- 👯 I'm eager to tackle complex challenges and build robust applications. 
+-  🎲 I'm looking for opportunities to collaborate on innovative projects and expand my knowledge.
 <br/>
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MachariaP.MachariaP" />
+</div>
+<br />
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-
-
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MachariaP.MachariaP" />
-
-
- 
-
- 
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -28,15 +25,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MachariaP/MachariaP/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
@@ -51,10 +39,13 @@
 
 <br/><br/>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<hr/>
+
+<div align="center">
+  <h2>📈 My GitHub Activity Graph 📈</h2>
+  <br>
+  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MachariaP&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  <br/><br/><br/>
+</div>
 
 <br/>
-
