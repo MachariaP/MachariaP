@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="MachariaP" /> </p>
 </div>
 <div>
-<h1 align="center">Hi 👋, I'm Phinehas Macharia</h1>
+<h1 align="center">Hi, 👋 I'm Phinehas Macharia</h1>
 </div>
 <div>
 
