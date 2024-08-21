@@ -6,7 +6,7 @@
 </div>
 <div>
 
--   👀 I’m a backend developer (I love Django & Flask) interested in  backend development . 
+-   👀 I’m a backend developer. (I love Django & Flask) interested in  backend development . 
 -   🌱 I'm currently honing my skills at ALX Africa
 -   💞️ I'm looking for opportunities to collaborate on innovative projects and expand my knowledge.
 </div>
