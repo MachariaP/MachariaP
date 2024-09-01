@@ -6,9 +6,9 @@
 </div>
 <div>
 
--   👀 I’m a back-end developer. (I love Django & Flask) interested in  back-end development 
--   🌱 I'm currently honing my skills at ALX Africa
--   💞️ I'm looking for opportunities to collaborate on innovative projects and expand my knowledge
+-   👀 I’m a back-end developer. (I love Django & Flask) interested in  back-end development. 
+-   🌱 I'm currently honing my skills at ALX Africa.
+-   💞️ I'm looking for opportunities to collaborate on innovative projects and expand my knowledge.
 </div>
 <hr/>
 
