@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="MachariaP" /> </p>
 </div>
 <div>
-<h1 align="center">Hi, 👋 I'm Phinehas Macharia</h1>
+<h1 align="center">Hi, 👋 I'm Phinehas Macharia.</h1>
 </div>
 <div>
 
--   👀 I’m a back-end developer. (I love Django & Flask) interested in  back-end development. 
+-   👀 I’m a back-end developer with python (Django & Flask).
 -   🌱 I'm currently honing my skills at ALX Africa.
 -   💞️ I'm looking for opportunities to collaborate on innovative projects and expand my knowledge.
 </div>
