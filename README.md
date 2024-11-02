@@ -9,7 +9,7 @@
 
 -   👀 I’m a back-end developer with python (Django & Flask)
 -   🌱 I'm currently honing my skills at ALX Africa
--   💞️ I'm looking for opportunities to collaborate on innovative projects and expand my knowledge.
+-   💞️ I'm looking for opportunities to collaborate on innovative projects and expand my knowledg
 </div>
 <hr/>
 
