@@ -1,103 +1,93 @@
-----------
+<div align="center">
+  <img alt="Coding illustration" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <h1>Hi, 👋 I'm Phinehas Macharia</h1>
+  <p>Backend Developer | Crafting Scalable Solutions with Python & Go</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for MachariaP" />
+  </p>
+</div>
 
-<div align="center"> <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="left"><img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="MachariaP" /></p> </div> <div> <h1 align="center">Hi, 👋 I'm Phinehas Macharia</h1> </div>
+---
 
-----------
+## 📖 About Me
 
-### About Me
+I'm a passionate **Backend Developer** and **ALX Software Engineering Program** graduate, specializing in building scalable, efficient systems with **Python (Django, Flask)** and exploring **Go** for high-performance applications. I thrive on solving complex problems, collaborating with teams, and contributing to open-source projects. When I'm not coding, I'm diving into technical discussions or experimenting with new tools to push the boundaries of software development.
 
-I'm a passionate **Backend Developer** with a knack for solving complex problems and a strong foundation in **Software Engineering**. A proud graduate of the rigorous **ALX Software Engineering Program**, I specialized in backend development where I mastered modern tools, technologies, and methodologies to build scalable and efficient applications.
+- 🌱 **Currently Learning**: Go, focusing on concurrency and microservices.
+- 🤝 **Looking to Collaborate**: On innovative backend projects or open-source initiatives.
+- 📫 **Reach Me**: [LinkedIn](https://linkedin.com/in/phinehas-macharia) | [Twitter/X](https://x.com/yourusername) | [Email](mailto:your.email@example.com)
 
-I am currently **exploring Go** as part of my growth journey, learning alongside a group of dedicated developers. I thrive in collaborative environments and enjoy creating innovative solutions that simplify processes and enhance user experiences.
+---
 
-When I'm not coding, you can find me engaging in technical discussions, contributing to open-source projects, or exploring new technologies that push the boundaries of what's possible in software development.
+## 🛠️ Tech Stack
 
-----------
+### Backend
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 
-### 🚀 Expertise
+### Frontend
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-#### Backend Development
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
--   **Python (Django, Flask)**: Developed and deployed scalable backend systems, RESTful APIs, and microservices.
--   **API Development & Documentation**: Designed clean, well-documented APIs for seamless integration with frontend systems.
--   **Authentication**: Implemented secure **Basic** and **Session-based User Authentication** using frameworks like **Flask-Login** and Django middleware.
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
-#### Database Management
+---
 
--   **Relational Databases**: Proficient in **MySQL**, **PostgreSQL**, and **SQLite**, including advanced queries, transactions, and indexing for performance optimization.
--   **NoSQL Databases**: Experience with **MongoDB** and **Redis** for flexible data storage, caching, and real-time data processing.
+## 🚀 Key Projects
 
-#### Algorithms & Data Structures
+### [GenBlog](https://github.com/MachariaP/genblog.git)
+A dynamic blogging platform built with **Flask**, **Bootstrap**, and **SQLite**.
+- Share and publish blog posts with a rich text editor.
+- Connect with users via messaging and follow features.
+- Responsive UI with custom CSS for seamless user experience.
 
--   **Linked Lists (Singly & Doubly)**: Designed efficient traversals, insertions, and deletions.
--   **Trees and Hash Tables**: Built robust data structures for fast data lookup and manipulation.
--   **Stacks/Queues**: Applied these structures in scheduling and real-time processing systems.
--   **Sorting Algorithms**: Optimized sorting techniques with a focus on **Big-O optimization**.
+### [StudyBud](https://github.com/MachariaP/StudyBud)
+A collaborative learning platform using **Django** and **PostgreSQL**.
+- Create or join topic-focused discussion rooms.
+- Search and contribute to trending educational discussions.
+- Optimized with pagination for large datasets.
 
-#### Systems Engineering & DevOps
+### [AirBnB Clone](https://github.com/MachariaP/AirBnB_clone.git)
+An ALX project showcasing backend system design with **Python** and **JSON**.
+- Custom CLI for managing database objects.
+- JSON-based data persistence for scalability.
+- Robust error handling and data validation.
 
--   **Linux Systems**: Expert in process management, system calls, and user permissions.
--   **Servers**: Configured and managed **Nginx** for load balancing and served web applications with **Gunicorn**.
--   **Configuration Management**: Automated environment setups with tools like **Puppet**.
--   **Networking**: Secured systems using **SSH**, **SSL/TLS**, and HTTP/S protocols.
--   **Monitoring & Debugging**: Performed **Webstack Debugging** and created actionable **postmortem reports**.
+### [Simple Shell](https://github.com/MachariaP/simple_shell.git)
+A custom Unix Shell implementation in **C**.
+- Supports built-in commands (`cd`, `env`, etc.).
+- Handles file input/output redirection.
+- Comprehensive error handling for system calls.
 
-#### Web Development
+---
 
--   **Frontend**: Strong in **HTML**, **CSS**, **Bootstrap**, and **JavaScript (ES6, TypeScript)** for creating responsive user interfaces.
--   **Templating**: Leveraged **Jinja2** for dynamic content rendering.
--   **Deployment & Debugging**: Hands-on experience deploying applications, debugging issues, and monitoring performance.
+## 📊 GitHub Stats
 
-#### Data Handling & Storage
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MachariaP&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Phinehas Macharia's GitHub stats" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MachariaP&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Phinehas Macharia's top languages" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=graywhite&hide_border=true" alt="Phinehas Macharia's contribution streak" />
+</div>
 
--   **SQL**: Advanced skills in crafting efficient queries, designing schemas, and managing transactions.
--   **NoSQL**: Expertise in handling unstructured data with **MongoDB** and **Redis**.
--   **Caching & Pagination**: Implemented caching mechanisms for high-traffic systems and optimized large datasets with pagination.
+---
 
-----------
+## 🏆 Achievements
+- 🎓 **ALX Software Engineering Program Graduate** (2024)
+- 🌐 Contributed to open-source projects on GitHub
+- 🧠 Currently exploring **Go** for high-performance backend systems
 
-### Technical Projects
+---
 
-#### [**GenBlog**](https://github.com/MachariaP/genblog.git)
+## 🤝 Let's Connect!
+I'm always excited to collaborate on innovative projects or discuss tech. Feel free to reach out or explore my repositories!
 
-A dynamic blogging platform where users can:
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 🔗 LinkedIn: [Phinehas Macharia](https://linkedin.com/in/phinehas-macharia)
+- 🐦 Twitter/X: [@yourusername](https://x.com/yourusername)
+- ⭐ Check out my [repositories](https://github.com/MachariaP?tab=repositories) and contribute!
 
--   **Share Ideas**: Write and publish blog posts.
--   **Connect**: Message other users and follow their updates.
--   **Explore**: Enjoy a responsive, user-friendly interface built with Flask, Bootstrap, and custom CSS.
-
-#### [**StudyBud**](https://github.com/MachariaP/StudyBud)
-
-A collaborative learning platform with features like:
-
--   **Rooms**: Users can join or create topic-focused rooms for discussions.
--   **Search & Explore**: Find and contribute to trending discussions.
-
-#### [**AirBnB Clone**](https://github.com/MachariaP/AirBnB_clone.git)
-
-An **ALX project** demonstrating backend system design:
-
--   **Command Interpreter**: Manage database objects through a custom CLI.
--   **Data Persistence**: Store and retrieve data using JSON serialization.
-
-#### [**Simple Shell**](https://github.com/MachariaP/simple_shell.git)
-
-A custom implementation of a **Unix Shell** featuring:
-
--   **Command Execution**: Built-in commands like `cd`, `env`, and more.
--   **File Redirection**: Handle input/output redirection seamlessly.
--   **Error Handling**: Robust system to manage invalid commands and system calls.
-
-----------
-
-### Tech Stack
-
-<div align="center"> <img src="https://skillicons.dev/icons?i=c,typescript,python,js,css,react,html,bootstrap,express,django,flask" /> </div> <div align="center"> <img src="https://skillicons.dev/icons?i=nginx,mongodb,sqlite,mysql,postgres,redis,bash,linux,git,docker,postman" /> </div>
-
-----------
-
-### Stats
-
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MachariaP&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MachariaP&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-
+<div align="center">
+  <p><em>"Code is poetry, and I'm writing the next verse."</em></p>
+</div>
