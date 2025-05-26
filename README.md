@@ -13,9 +13,9 @@
 
 I'm a passionate **Backend Developer** and **ALX Software Engineering Program** graduate, specializing in building scalable, efficient systems with **Python (Django, Flask)** and exploring **Go** for high-performance applications. I thrive on solving complex problems, collaborating with teams, and contributing to open-source projects. When I'm not coding, I'm diving into technical discussions or experimenting with new tools to push the boundaries of software development.
 
-- 🌱 **Currently Learning**: Go, focusing on concurrency and microservices.
+- 🌱 **Currently Learning**: Python fundamentals and advanced topics at the Python Institute.
 - 🤝 **Looking to Collaborate**: On innovative backend projects or open-source initiatives.
-- 📫 **Reach Me**: [LinkedIn](https://linkedin.com/in/phinehas-macharia) | [Twitter/X](https://x.com/yourusername) | [Email](mailto:your.email@example.com)
+- 📫 **Reach Me**: [LinkedIn](https://linkedin.com/in/phinehas-macharia) | [Twitter/X](https://x.com/_M_Phinehas) | [Email](walburphinehas78@gmail.com)
 
 ---
 
@@ -83,9 +83,9 @@ A custom Unix Shell implementation in **C**.
 ## 🤝 Let's Connect!
 I'm always excited to collaborate on innovative projects or discuss tech. Feel free to reach out or explore my repositories!
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [your.email@example.com](mailto:walburphinehas78@gmail.com)
 - 🔗 LinkedIn: [Phinehas Macharia](https://linkedin.com/in/phinehas-macharia)
-- 🐦 Twitter/X: [@yourusername](https://x.com/yourusername)
+- 🐦 Twitter/X: [@yourusername](https://x.com/_M_Phinehas)
 - ⭐ Check out my [repositories](https://github.com/MachariaP?tab=repositories) and contribute!
 
 <div align="center">
