@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Coding illustration" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <h1>Hi, 👋 I'm Phinehas Macharia</h1>
-  <p>Backend Developer | Crafting Scalable Solutions with Python & Go</p>
+  <p>Backend Developer | Crafting Scalable Solutions with Python</p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for MachariaP" />
   </p>
@@ -13,7 +13,7 @@
 
 I'm a passionate **Backend Developer** and **ALX Software Engineering Program** graduate, specializing in building scalable, efficient systems with **Python (Django, Flask)** and exploring **Go** for high-performance applications. I thrive on solving complex problems, collaborating with teams, and contributing to open-source projects. When I'm not coding, I'm diving into technical discussions or experimenting with new tools to push the boundaries of software development.
 
-- 🌱 **Currently Learning**: Python fundamentals and advanced topics at the Python Institute.
+- 🌱 **Currently Exploring**: Python fundamentals and advanced topics at the Python Institute.
 - 🤝 **Looking to Collaborate**: On innovative backend projects or open-source initiatives.
 - 📫 **Reach Me**: [LinkedIn](https://linkedin.com/in/phinehas-macharia) | [Twitter/X](https://x.com/_M_Phinehas) | [Email](walburphinehas78@gmail.com)
 
