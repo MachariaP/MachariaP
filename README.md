@@ -83,9 +83,9 @@ A custom Unix Shell implementation in **C**.
 ## 🤝 Let's Connect!
 I'm always excited to collaborate on innovative projects or discuss tech. Feel free to reach out or explore my repositories!
 
-- 📧 Email: [your.email@example.com](mailto:walburphinehas78@gmail.com)
-- 🔗 LinkedIn: [Phinehas Macharia](https://linkedin.com/in/phinehas-macharia)
-- 🐦 Twitter/X: [@yourusername](https://x.com/_M_Phinehas)
+- 📧 Email: [Email](mailto:walburphinehas78@gmail.com)
+- 🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/phinehas-macharia)
+- 🐦 Twitter/X: [X](https://x.com/_M_Phinehas)
 - ⭐ Check out my [repositories](https://github.com/MachariaP?tab=repositories) and contribute!
 
 <div align="center">
