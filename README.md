@@ -12,7 +12,7 @@
 
 ## 📖 About Me
 
-I'm a passionate **Backend Developer** and **ALX Software Engineering Program** graduate, specializing in building scalable, efficient systems with **Python (Django, Flask)** and exploring **Go** for high-performance applications. I thrive on solving complex problems, collaborating with teams, and contributing to open-source projects. When I'm not coding, I'm diving into technical discussions or experimenting with new tools to push the boundaries of software development.
+I'm a passionate **Backend Developer** and **ALX Software Engineering Program** graduate, specializing in building scalable, efficient systems with **Python (Django, Flask)**. I’m currently refreshing my Python skills through a course at the **Python Institute**, diving deep into fundamentals and advanced concepts to enhance my expertise. I thrive on solving complex problems, collaborating with teams, and contributing to open-source projects. When I'm not coding, I'm exploring new Python libraries or engaging in technical discussions to fuel my growth as a developer.
 
 - 🌱 **Currently Exploring**: Python fundamentals and advanced topics at the Python Institute.
 - 🤝 **Looking to Collaborate**: On innovative backend projects or open-source initiatives.
