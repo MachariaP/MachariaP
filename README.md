@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Coding illustration" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <h1>Hi, 👋 I'm Phinehas Macharia</h1>
-  <p>Software Engineer | Python Developer</p> | 
+  <p>Software Engineer | Python Developer</p>
   <p>Crafting Scalable Solutions with Python</p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for MachariaP" />
