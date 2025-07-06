@@ -6,6 +6,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for MachariaP" />
   </p>
+  <p>[![committers.top badge](https://user-badge.committers.top/kenya/USERNAME.svg)](https://user-badge.committers.top/kenya/USERNAME)</p>
 </div>
 
 ---
