@@ -73,10 +73,10 @@ I'm a passionate **Backend Developer** and **ALX Software Engineering Program** 
 ---
 
 ## 🏆 Achievements
-- 🎓 **ALX Software Engineering Graduate** (2024)
+- 🎓 **ALX Software Engineering Graduate**
 - 📜 **Python Institute** Certification Candidate
 - 🌐 Active **Open-Source Contributor**
-- 🚀 Currently exploring **High-Performance Systems with Go**
+- 🚀 Currently exploring **Front End Developement**
 
 ---
 
