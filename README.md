@@ -16,12 +16,12 @@
 
 ## 📖 About Me
 
-I'm a **results-driven Software Engineer** and **ALX Certified Developer** with expertise in building scalable backend systems and full-stack applications. I've engineered a production-ready e-commerce platform using **Django and React**, optimized a **high-speed client-server system** for performance-critical operations, and am currently expanding my skills in modern frontend development. My approach combines robust architecture with clean code to deliver solutions that drive business value.
+I'm a **results-driven Software Engineer** and **ALX Certified Developer** specializing in scalable backend systems and full-stack applications. With proven experience engineering production-ready platforms—including an e-commerce solution built with **Django and React** and a **high-performance client-server system** optimized for critical operations—I deliver solutions that combine robust architecture with clean, maintainable code to drive measurable business value.
 
-- 🔥 **Recent Projects**: Django/React e-commerce shop • High-performance client-server system
-- 🚀 **Currently Exploring**: Advanced frontend patterns with React and TypeScript
-- 🌱 **Continuous Growth**: Deepening Python expertise through Python Institute certification
-- 🤝 **Open to**: Collaborating on impactful full-stack projects and open-source initiatives
+- 🔥 **Recent Work**: Django/React e-commerce platform • High-performance client-server architecture
+- 🚀 **Current Focus**: Advanced frontend patterns with React and TypeScript
+- 🌱 **Professional Development**: Pursuing Python Institute Professional Certification
+- 🤝 **Collaboration**: Open to impactful full-stack projects and open-source contributions
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Phinehas_Macharia-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/phinehas-macharia)
 
@@ -96,17 +96,17 @@ I'm a **results-driven Software Engineer** and **ALX Certified Developer** with 
 
 ---
 
-## 🏆 Professional Journey
+## 🏆 Professional Highlights
 - 🎓 **ALX Certified Software Engineer** (2024)
-- 🏭 **Built production systems** serving 10k+ users
-- 📜 **Python Institute** Professional Certification Candidate
-- 🌱 **Expanding frontend expertise** with modern React patterns
-- 🚀 **Contributed** to 15+ open-source repositories
+- 🏭 **Production Systems**: Developed and deployed applications serving 10,000+ users
+- 📜 **Python Institute**: Professional Certification Candidate
+- 🌱 **Continuous Learning**: Advancing expertise in modern React development patterns
+- 🚀 **Open Source**: Active contributor to 15+ repositories
 
 ---
 
-## 🤝 Let's Collaborate!
-I'm passionate about solving complex technical challenges and building impactful solutions. Reach out for project collaborations or tech discussions.
+## 🤝 Let's Connect!
+I'm passionate about solving complex technical challenges and building innovative solutions. Whether you're interested in collaboration, technical discussions, or exploring new opportunities, I'd love to connect.
 
 <div align="center">
   <p>
