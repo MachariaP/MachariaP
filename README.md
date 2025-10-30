@@ -266,7 +266,7 @@ specialization:
 <img src="https://github-readme-stats.vercel.app/api?username=MachariaP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats">
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="Contribution Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak">
 </td>
 </tr>
 </table>
@@ -377,8 +377,7 @@ I'm passionate about solving complex technical challenges and building innovativ
 <br>
 
 ### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Engineering%20solutions%20that%20scale%20with%20your%20ambition&author=Phinehas%20Macharia" alt="Quote">
+<img src="https://quotes.readme.dev/api?type=horizontal&theme=tokyonight" alt="Random Daily Quote">
 
 <br>
 
