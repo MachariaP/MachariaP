@@ -40,6 +40,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```python
+#!/usr/bin/env python3
 class FullStackDeveloper:
     def __init__(self):
         self.name = "Phinehas Macharia"
@@ -66,6 +67,45 @@ class FullStackDeveloper:
             "🌱 Contributing to open-source projects",
             "🤝 Collaborating on impactful full-stack solutions"
         ]
+
+    def __str__(self):
+        skills = self.get_skills()
+        focus = self.current_focus()
+        
+        skills_str = "\n".join([f"  • {k.capitalize()}: {', '.join(v)}" for k, v in skills.items()])
+        focus_str = "\n".join(f"  • {item}" for item in focus)
+        
+        return f"""
+╔════════════════════════════════════════════════════════════╗
+║                  FULL STACK DEVELOPER PROFILE               ║
+╚════════════════════════════════════════════════════════════╝
+
+👤 Name: {self.name}
+💼 Role: {self.role}
+🌍 Location: {self.location}
+
+📜 Certifications:
+  • {', '.join(self.certifications)}
+🎯 Pursuing: {self.pursuing}
+
+🛠️  Skills:
+{skills_str}
+
+🎯 Current Focus:
+{focus_str}
+
+---
+Ready to build scalable, modern web applications with clean code & best practices.
+        """.strip()
+
+
+def main():
+    dev = FullStackDeveloper()
+    print(dev)
+
+
+if __name__ == "__main__":
+    main()
 ```
 
 ### 🎯 Professional Highlights
