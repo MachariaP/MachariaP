@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Phinehas%20Macharia&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Python%20Specialist&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,6,7,8,9,10&height=250&section=header&text=Phinehas%20Macharia&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Python%20Specialist%20|%20Cloud%20Engineer&descAlignY=58&descAlign=50&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
   
 ### 👨‍💻 Building High-Performance Web Systems That Scale
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+Django+Specialist+%F0%9F%90%8D;React+%7C+TypeScript+Expert+%E2%9A%9B%EF%B8%8F;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=F75C7E&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+Django+%7C+FastAPI+Specialist+%F0%9F%90%8D;React+%7C+TypeScript+%7C+Next.js+Expert+%E2%9A%9B%EF%B8%8F;Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%92%BB;10%2C000%2B+Users+Served+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br>
 
@@ -22,10 +22,15 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=MachariaP&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views">
 <a href="https://user-badge.committers.top/kenya/MachariaP">
   <img src="https://user-badge.committers.top/kenya/MachariaP.svg" alt="Kenya Rank" height="28">
 </a>
+
+<br>
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=MachariaP&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -36,6 +41,12 @@
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> About Me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -110,6 +121,8 @@ if __name__ == "__main__":
 
 ### 🎯 Professional Highlights
 
+<div align="center">
+
 ```yaml
 experience:
   - Production Systems: "10,000+ users served"
@@ -126,6 +139,22 @@ specialization:
 
 <br>
 
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░   55.2%
+JavaScript   5 hrs 15 mins   ██████░░░░░░░░░░░░░░   23.1%
+TypeScript   3 hrs 20 mins   ████░░░░░░░░░░░░░░░░   14.7%
+CSS          1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░    4.8%
+Other        30 mins         ░░░░░░░░░░░░░░░░░░░░    2.2%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
@@ -136,55 +165,67 @@ specialization:
 
 ### 💻 Languages & Frameworks
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=A8B9CC" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" />
+</p>
 
 ### 🚀 Backend Technologies
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" />
+</p>
 
 ### ⚛️ Frontend Technologies
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=4FC08D" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4" />
+</p>
 
 ### 🗄️ Databases & Caching
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=003B57" />
+</p>
 
 ### ☁️ DevOps & Cloud
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=009639" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" />
+</p>
 
 ### 🧪 Testing & Tools
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=C21325" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&labelColor=0A9EDC" />
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black&labelColor=8DD6F9" />
+<img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black&labelColor=F9DC3E" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" />
+</p>
 
 </div>
 
@@ -303,17 +344,26 @@ specialization:
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=MachariaP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=MachariaP&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E&text_color=c9d1d9&border_radius=10" alt="GitHub Stats">
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=667eea&stroke=764ba2" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MachariaP&theme=radical&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&sideLabels=F75C7E&stroke=F75C7E&border_radius=10" alt="GitHub Streak">
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MachariaP&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&card_width=445" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MachariaP&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&title_color=F75C7E&text_color=c9d1d9&card_width=445&border_radius=10" alt="Top Languages">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MachariaP&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=667eea" alt="GitHub Activity Graph">
+<br>
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MachariaP&theme=github-compact&hide_border=true&bg_color=0d1117&color=F75C7E&line=F75C7E&point=c9d1d9&area=true&custom_title=Contribution%20Activity%20Graph&radius=10" alt="GitHub Activity Graph">
+
+<br>
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/MachariaP/MachariaP/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -417,7 +467,20 @@ I'm passionate about solving complex technical challenges and building innovativ
 <br>
 
 ### 💭 Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Daily Quote">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Daily Quote">
+
+<br>
+
+### 🎖️ GitHub Profile Summary
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MachariaP&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<br>
+
+### 📊 Contribution Stats
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MachariaP&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MachariaP&theme=radical&utcOffset=3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <br>
 
@@ -432,9 +495,13 @@ I'm passionate about solving complex technical challenges and building innovativ
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5,6,7,8,9,10&height=150&section=footer&animation=twinkling" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  
+### 🌟 Show some ❤️ by starring repositories you find interesting!
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+
 </div>
